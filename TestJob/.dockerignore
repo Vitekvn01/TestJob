@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+.git/
+.gitignore
+.vs/
+.idea/
+*.user
+compose.yml
+Dockerfile
+README.md
+json_result_*.txt

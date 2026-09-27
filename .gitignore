@@ -1,0 +1,15 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.vs/
+.idea/
+*.user
+*.suo
+
+appsettings.Development.json
+appsettings.Local.json
+
+pgdata/
+pgadmin_data/
