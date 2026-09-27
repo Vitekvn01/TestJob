@@ -33,8 +33,8 @@
       - "8090:8080"
     volumes:
       - ./:/src
-      - /src/bin
-      - /src/obj
+      - /src/TestJob/bin
+      - /src/TestJob/obj
     depends_on:
       postgres:
         condition: service_healthy
